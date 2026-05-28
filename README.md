@@ -1,7 +1,6 @@
 # Sistema de Análise de Desastres Naturais
 
-**Autores:** Igor e Vitor  
-**Disciplina:** Python  
+**Autores:** Igor e Vitor    
 **Entrega:** Global Solution (GS)
 
 ---
